@@ -1,14 +1,10 @@
 import './App.css';
-import Navbar from './components/NavigationBar';
-
-import NavigationBar from './components/NavigationBar';
-import Footer from './components/footer';
+import Home from './screens/Home';
 
 function App() {
   return (
     <div >
-     <div><NavigationBar/> 
-    </div><div><Footer/></div>
+     <div><Home></Home></div>
     </div> 
     
   );
