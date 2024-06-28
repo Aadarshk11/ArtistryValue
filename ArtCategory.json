@@ -1,0 +1,65 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Ceramics",
+        "description": "Handcrafted ceramic items including vases, bowls, and more."
+      },
+      {
+        "id": 2,
+        "name": "Sculptures",
+        "description": "Hand-carved and molded sculptures made from various materials."
+      },
+      {
+        "id": 3,
+        "name": "Jewelry",
+        "description": "Handmade jewelry pieces including necklaces, rings, and earrings."
+      },
+      {
+        "id": 4,
+        "name": "Textiles",
+        "description": "Handcrafted textile items such as scarves, blankets, and clothing."
+      },
+      {
+        "id": 5,
+        "name": "Accessories",
+        "description": "Handmade accessories including wallets, bags, and belts."
+      },
+      {
+        "id": 6,
+        "name": "Paintings",
+        "description": "Hand-painted artworks in various styles and mediums."
+      },
+      {
+        "id": 7,
+        "name": "Furniture",
+        "description": "Handcrafted furniture pieces made from wood, metal, and other materials."
+      },
+      {
+        "id": 8,
+        "name": "Architecture",
+        "description": "Design and creation of buildings and other structures."
+      },
+      {
+        "id": 9,
+        "name": "Literature",
+        "description": "Written works, including novels, poems, and essays."
+      },
+      {
+        "id": 10,
+        "name": "Music",
+        "description": "Creation and performance of musical works."
+      },
+      {
+        "id": 11,
+        "name": "Performing Arts",
+        "description": "Art forms that involve performance, including theatre, dance, and more."
+      },
+      {
+        "id": 12,
+        "name": "Cinema",
+        "description": "The art of filmmaking, including direction, production, and acting."
+      }
+    ]
+  }
+  

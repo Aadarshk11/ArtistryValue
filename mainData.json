@@ -1,0 +1,95 @@
+{
+    "handcraftedArts": [
+      {
+        "id": 1,
+        "title": "Ceramic Vase",
+        "artist": "Jane Doe",
+        "description": "A beautifully hand-painted ceramic vase with intricate floral designs.",
+        "materials": ["Ceramic", "Paint"],
+        "dimensions": {
+          "height": "25 cm",
+          "width": "15 cm"
+        },
+        "price": 45.00,
+        "images": [
+          "https://example.com/images/ceramic_vase_1.jpg",
+          "https://example.com/images/ceramic_vase_2.jpg"
+        ],
+        "category": "Ceramics",
+        "availability": "In Stock"
+      },
+      {
+        "id": 2,
+        "title": "Wooden Sculpture",
+        "artist": "John Smith",
+        "description": "A hand-carved wooden sculpture depicting a serene forest scene.",
+        "materials": ["Wood"],
+        "dimensions": {
+          "height": "30 cm",
+          "width": "20 cm"
+        },
+        "price": 120.00,
+        "images": [
+          "https://example.com/images/wooden_sculpture_1.jpg",
+          "https://example.com/images/wooden_sculpture_2.jpg"
+        ],
+        "category": "Sculptures",
+        "availability": "Out of Stock"
+      },
+      {
+        "id": 3,
+        "title": "Glass Pendant",
+        "artist": "Emily Brown",
+        "description": "A delicate glass pendant with a swirling blue and green design.",
+        "materials": ["Glass"],
+        "dimensions": {
+          "height": "5 cm",
+          "width": "3 cm"
+        },
+        "price": 35.00,
+        "images": [
+          "https://example.com/images/glass_pendant_1.jpg",
+          "https://example.com/images/glass_pendant_2.jpg"
+        ],
+        "category": "Jewelry",
+        "availability": "In Stock"
+      },
+      {
+        "id": 4,
+        "title": "Knitted Scarf",
+        "artist": "Anna Lee",
+        "description": "A warm and cozy scarf knitted from high-quality wool in vibrant colors.",
+        "materials": ["Wool"],
+        "dimensions": {
+          "length": "180 cm",
+          "width": "25 cm"
+        },
+        "price": 60.00,
+        "images": [
+          "https://example.com/images/knitted_scarf_1.jpg",
+          "https://example.com/images/knitted_scarf_2.jpg"
+        ],
+        "category": "Textiles",
+        "availability": "In Stock"
+      },
+      {
+        "id": 5,
+        "title": "Leather Wallet",
+        "artist": "Michael Green",
+        "description": "A handcrafted leather wallet with multiple compartments and a sleek design.",
+        "materials": ["Leather"],
+        "dimensions": {
+          "height": "9 cm",
+          "width": "11 cm"
+        },
+        "price": 80.00,
+        "images": [
+          "https://example.com/images/leather_wallet_1.jpg",
+          "https://example.com/images/leather_wallet_2.jpg"
+        ],
+        "category": "Accessories",
+        "availability": "In Stock"
+      }
+    ]
+  }
+  
