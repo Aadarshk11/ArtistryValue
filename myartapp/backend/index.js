@@ -1,0 +1,14 @@
+const express = require('express');
+const mongoDB = require('./mongoose');
+const app = express();
+const port = 5000;
+
+mongoDB();
+
+app.get('/', (req, res) => {
+  res.send('Hello World!');
+});
+
+app.listen(port, () => {
+  console.log(`Example app listening at http://localhost:${port}`);
+});
