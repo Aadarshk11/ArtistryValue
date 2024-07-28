@@ -8,34 +8,32 @@ export default function Footer() {
       <Container>
         <Row>
           <Col md={4}>
-            <h5>About Us</h5>
+            <h5>About this project </h5>
             <p>
-              We are a company dedicated to providing the best services and products. 
-              Our mission is to bring the highest quality to our customers.
+              made by aadarsh kasturey as a self project to learn MERN technology. To know more about this direct to readme file of this github repository.
             </p>
           </Col>
           <Col md={4}>
             <h5>Links</h5>
             <ul className="list-unstyled">
-              <li><a href="/" className="text-white">Home</a></li>
-              <li><a href="/about" className="text-white">About</a></li>
-              <li><a href="/services" className="text-white">Services</a></li>
-              <li><a href="/contact" className="text-white">Contact</a></li>
+              <li><Link to="/" className="text-white">Home</Link></li>
+              <li><Link to="/" className="text-white">About</Link></li>
+              <li><Link to="/" className="text-white">Services</Link></li>
+              <li><Link to="/" className="text-white">Contact</Link></li>
             </ul>
           </Col>
           <Col md={4}>
-            <h5>Contact Us</h5>
+            <h5>Contact me</h5>
             <address>
-              123 Main Street<br />
-              City, State, 12345<br />
-              <a href="tel:+1234567890" className="text-white">+1 (234) 567-890</a><br />
-              <a href="mailto:info@company.com" className="text-white">info@company.com</a>
+              
+              <a href="https://www.linkedin.com/in/aadarshhistory" className="text-white">Linkedin</a><br />
+              
             </address>
           </Col>
         </Row>
         <Row>
           <Col className="text-center mt-3">
-            <p>&copy; 2024 Company Name. All rights reserved.</p>
+            <p>&copy; completed on 28/07/2024 </p>
           </Col>
         </Row>
       </Container>

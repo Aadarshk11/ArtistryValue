@@ -22,11 +22,11 @@ export default function NavigationBar() {
             <Nav.Link as={Link} to="/">
               Home
             </Nav.Link>
-            <Nav.Link href="/about">About</Nav.Link>
-            <Nav.Link href="/services">Categories</Nav.Link>
-            <Nav.Link href="/contact">Contact</Nav.Link>
+            
+            <Nav.Link href="/category">Categories</Nav.Link>
+            
             {localStorage.getItem("authToken") ? (
-              <Nav.Link as={Link} to="/">
+              <Nav.Link as={Link} to="/postart">
                 Post your art
               </Nav.Link>
             ) : (
